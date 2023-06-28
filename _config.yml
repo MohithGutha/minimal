@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> G P Mohith Chowdary </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+    # <a href="pdf/resume.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/mohith-gutha/">LinkedIn</a> |
+    <a href="https://github.com/MohithGutha/">GitHub</a>
+   
+    <br>  
+      I am a '22 Graduate from BITS Pilani K K Birla Goa Campus, looking for oppurtunities in the Data Science & Web Development domains.
+    <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
